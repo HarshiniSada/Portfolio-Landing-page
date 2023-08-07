@@ -2,6 +2,10 @@
 
 👋 Hey there! I'm thrilled to have you visit my portfolio landing page. Here, you'll find a showcase of my diverse skill set, impressive projects, and ways to connect with me. Whether you're a fellow developer, a potential collaborator, or just curious about my work, I'm excited to share my journey with you.
 
+**Web-Design link**
+https://www.figma.com/file/KGYWIftV50L9zYMMoK2jwq/Portfolio-landing-page-design?node-id=0:1
+
+
 **About Me:**
 I'm a passionate and innovative software developer with a strong foundation in various programming languages and technologies. My journey in the world of coding has been a thrilling adventure, and I'm always hungry for new challenges and opportunities to learn.
 
